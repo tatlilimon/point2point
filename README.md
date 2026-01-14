@@ -10,6 +10,11 @@ A cross-platform screen pixel measurement tool that allows you to measure distan
 - **Live Preview**: See distance in real-time as you move the cursor
 - **Configurable Settings**: Adjust DPI and base font size for accurate conversions
 - **Resizable Window**: Customize the application window size to your preference
+<img width="609" height="893" alt="Screenshot" src="https://github.com/user-attachments/assets/f16a9c42-493d-4965-bfa5-b2231808e3b5" />
+<img width="609" height="893" alt="Screenshot1" src="https://github.com/user-attachments/assets/d60a15ad-766b-461a-82de-70ee0b4305a7" />
+<img width="699" height="545" alt="Screenshot2" src="https://github.com/user-attachments/assets/18771fd8-ae3a-47f8-bdef-030861e03b48" />
+<img width="607" height="1043" alt="Screenshot3" src="https://github.com/user-attachments/assets/93a6d994-c9a3-4763-bf15-7b6f2e3bc605" />
+
 
 ## Supported Platforms
 
